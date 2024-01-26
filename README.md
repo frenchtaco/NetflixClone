@@ -1,5 +1,5 @@
 # NetfixClone
-### By: Emil <emil.ladegaard1@gmail.com> and Morten, and me (Victor la Cour) <victorlacour3@gmail.com>
+##### By: Emil <emil.ladegaard1@gmail.com> and Morten, and me (Victor la Cour) <victorlacour3@gmail.com>
 
 ## Goal
 The goal of this project was to use Java to emulate the Graphical User Interface of a streaming service such as Netflix. HBO, etc. 
